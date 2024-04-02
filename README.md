@@ -1,0 +1,1 @@
+This assignment will walk you through a few small activities to familiarize you with data manipulation and processing using JavaScript. By becoming more familiar with the logic behind programming decisions, you will be able to create more efficient solutions in the future.
